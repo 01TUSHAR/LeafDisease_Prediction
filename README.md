@@ -104,7 +104,7 @@ Ensure you have the following installed on your system:
 ---
 
 ## Notes
-- For frontend-backend integration, ensure the API URL in the React app matches your backend server URL (e.g., `http://localhost:5000`).
+- For frontend-backend integration, ensure the API URL in the React app matches your backend server URL (e.g., `http://localhost:8000`).
 - If you encounter any issues, check for missing dependencies or environment variables.
 
 ---
