@@ -1,0 +1,45 @@
+/* Header styles */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: #ffffff; /* White background */
+  max-width: 100%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Slightly deeper shadow for elegance */
+  margin-bottom: 30px;
+  border-radius: 12px; /* Slightly rounded corners for a softer look */
+  font-family: 'Roboto', sans-serif; /* Modern and clean font */
+}
+
+.header h1 {
+  color: #6200ea; /* Vibrant purple for emphasis */
+  margin: 0;
+  font-size: 1.8rem; /* Adjusted size for better balance */
+  font-weight: bold;
+}
+
+.header nav {
+  display: flex;
+  align-items: center;
+}
+
+.header nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #333333; /* Neutral dark gray for text */
+  font-weight: 500;
+  font-size: 1rem;
+  transition: color 0.3s ease-in-out, transform 0.2s ease-in-out; /* Smooth transition effects */
+}
+
+.header nav a:hover {
+  color: #6200ea; /* Matches header title color for brand consistency */
+  transform: scale(1.05); /* Subtle enlargement on hover */
+  text-decoration: underline; /* Adds underline for emphasis */
+}
+
+.header nav a:active {
+  color: #3700b3; /* Slightly darker purple for active state */
+  transform: scale(1); /* Resets scaling */
+}
