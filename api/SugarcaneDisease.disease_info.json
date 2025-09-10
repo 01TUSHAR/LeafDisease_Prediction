@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "68c127ab1103efaced1b8d70"
+  },
+  "disease_name": "Healthy",
+  "symptoms": "Plants show no signs of disease, robust growth.",
+  "pathogen": "N/A",
+  "cause": "N/A",
+  "favourable_conditions": "Optimal growing conditions.",
+  "disease_cycle": "N/A",
+  "pre_management": "Ensure soil health through proper nutrient management, Use disease-free and robust planting material.",
+  "mid_management": "Maintain optimal growing conditions (water, nutrients, and pest control), Regularly monitor for any signs of disease.",
+  "future_management": "Continue using resistant varieties and improve soil health practices, Implement integrated pest management strategies.",
+  "precautions": "N/A",
+  "description": "Healthy sugarcane is free from any disease or pest. It exhibits optimal growth and high sugar content."
+},
+{
+  "_id": {
+    "$oid": "68c127ab1103efaced1b8d71"
+  },
+  "disease_name": "Mosaic",
+  "symptoms": "Chlorotic or yellowish stripes on the basal portion of the younger foliage, leading to stunted and chlorotic plants.",
+  "pathogen": "Sugarcane mosaic potyvirus",
+  "cause": "Viral infection transmitted by aphids.",
+  "favourable_conditions": "Presence of aphid vectors and infected setts.",
+  "disease_cycle": "Primary spread through infected canes used as seed.",
+  "pre_management": "Use disease-free planting material to prevent viral infection, Select resistant varieties if available.",
+  "mid_management": "Monitor for aphid populations and apply insecticides as needed, Rogue out infected plants immediately to prevent spread.",
+  "future_management": "Rotate with non-host crops to disrupt the virus cycle, Continue to develop and plant resistant varieties.",
+  "precautions": "Rogue out the diseased clumps periodically.",
+  "description": "Mosaic disease is caused by a complex of viruses, typically Sugarcane Mosaic Virus (SCMV). It affects the plant’s leaves, causing a mosaic-like appearance and reduced yield."
+},
+{
+  "_id": {
+    "$oid": "68c127ab1103efaced1b8d72"
+  },
+  "disease_name": "RedRot",
+  "symptoms": "The first external symptom appears mostly on third or fourth leaf which withers away at the tips along the margins.",
+  "pathogen": "Colletotrichum falcatum",
+  "cause": "Fungal infection causing internal rot of the stem.",
+  "favourable_conditions": "Monoculturing of sugarcane and waterlogged conditions.",
+  "disease_cycle": "The fungus is sett-borne and persists in the soil on diseased clumps.",
+  "pre_management": "Select disease-free planting material and use resistant varieties, Treat setts with fungicides before planting.",
+  "mid_management": "Monitor fields for symptoms and apply fungicides as needed, Maintain proper irrigation and drainage.",
+  "future_management": "Practice crop rotation with non-host plants, Regularly scout for disease and remove infected plants.",
+  "precautions": "Avoid ratooning of the diseased crop.",
+  "description": "RedRot is a fungal disease caused by Colletotrichum falcatum, affecting the sugarcane stalk. It causes internal decay and discoloration, which leads to weakening of the plant."
+},
+{
+  "_id": {
+    "$oid": "68c127ab1103efaced1b8d73"
+  },
+  "disease_name": "Rust",
+  "symptoms": "Minute, elongated, yellow spots appear on both surfaces of young leaves, turning brown on maturity.",
+  "pathogen": "Puccinia erianthi",
+  "cause": "Fungal infection caused by rust spores.",
+  "favourable_conditions": "High humidity and warm temperatures.",
+  "disease_cycle": "The fungus survives on collateral hosts and infected stubbles.",
+  "pre_management": "Remove collateral hosts from the area before planting, Use disease-resistant varieties.",
+  "mid_management": "Monitor for symptoms and apply fungicides as necessary, Ensure proper spacing and air circulation between plants.",
+  "future_management": "Practice crop rotation to break the disease cycle, Implement integrated pest management strategies.",
+  "precautions": "Regularly inspect crops for early signs of infection.",
+  "description": "Rust is caused by the fungus Puccinia melanocephala. It primarily affects the leaves of sugarcane, causing rust-colored pustules."
+},
+{
+  "_id": {
+    "$oid": "68c127ab1103efaced1b8d74"
+  },
+  "disease_name": "Yellow (Leaf Scald)",
+  "symptoms": "Whitish lines appear on the leaves, run to the full length of leaves and sheaths.",
+  "pathogen": "Xanthomonas albilineans",
+  "cause": "Bacterial infection causing leaf lesions.",
+  "favourable_conditions": "Poor drainage and high humidity.",
+  "disease_cycle": "The bacterium remains viable in the soil and infected canes.",
+  "pre_management": "Select disease-free planting material, Use healthy setts from disease-resistant varieties.",
+  "mid_management": "Monitor for symptoms and apply appropriate fungicides, Maintain proper irrigation.",
+  "future_management": "Practice crop rotation with non-host plants, Regularly scout for disease and remove infected plants.",
+  "precautions": "Remove infected plants immediately, Practice field sanitation.",
+  "description": "Yellow leaf scald is a bacterial disease caused by Xanthomonas albilineans. It results in yellowing of leaves and can reduce cane yield."
+}]
