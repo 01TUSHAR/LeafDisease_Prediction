@@ -1,6 +1,10 @@
-fastapi==0.95.2
-uvicorn==0.22.0
-Pillow==9.4.0
-numpy==1.24.4
-tensorflow==2.13.0
-sqlalchemy==2.0.16
+fastapi
+uvicorn
+pillow
+numpy
+tensorflow
+motor
+pymongo
+python-dotenv
+dnspython
+python-multipart
